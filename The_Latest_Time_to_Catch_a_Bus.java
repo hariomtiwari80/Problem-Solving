@@ -9,6 +9,7 @@ class Solution {
         ArrayList<Integer> li=new ArrayList<>();
         for(int i=0;i<p.length;i++){
             if(!set.contains(p[i]-1) && p[i]!=1) li.add(p[i]-1);
+            if(!set.contains(p[i]+1) && p[i]<b[b.length-1]) li.add(p[i]+1);
         }
         for (int bus:b) {
             if (!set.contains(bus)) li.add(bus);
