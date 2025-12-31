@@ -32,3 +32,48 @@ class Solution {
         return ans;
     }
 }
+
+-------------------------------------------------------------------------------------
+
+class Solution {
+    class Pair{
+        int de,pr;
+        Pair(int de,int pr){
+            this.de=de;
+            this.pr=pr;
+        }
+    }
+    public ArrayList<Integer> jobSequencing(int[] dead, int[] pro) {
+        ArrayList<Integer> ans=new ArrayList<>();
+        int profit=0,job=0,n=dead.length;
+        Pair[] p=new Pair[n];
+        int max=0;
+        for(int i=0;i<n;i++){
+            p[i]=new Pair(dead[i],pro[i]);
+            max=Math.max(max,dead[i]);
+        }
+        Arrays.sort(p,(a,b)->{
+           return b.pr-a.pr; 
+        });
+        
+        int[] arr=new int[max+1];
+        for(int i=0;i<=max;i++){
+            arr[i]=i;
+        }
+        for(int i=0;i<n;i++){
+            int id=solve(p[i].de,arr);
+            if(id!=0){
+                arr[id]=solve(id-1,arr);
+                profit+=p[i].pr;
+                job++;
+            }
+        }
+        ans.add(job);
+        ans.add(profit);
+        return ans;
+    }
+    public int solve(int i,int[] arr){
+        if(arr[i]==i) return i;
+        return arr[i]=solve(arr[i],arr);
+    }
+}
