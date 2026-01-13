@@ -82,3 +82,32 @@ class Solution {
         }
     }
 }
+
+-------------------------------------------------------------------------------------
+
+class Solution {
+    public int[][] floodFill(int[][] arr, int r, int c, int color) {
+        int n=arr.length,m=arr[0].length;
+        if(arr[r][c]==color) return arr;
+        int[][] ans=new int[n][m];
+        for(int[] a:ans) Arrays.fill(a,-1);
+        dfs(arr,ans,r,c,color,arr[r][c]);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(ans[i][j]==-1){
+                    ans[i][j]=arr[i][j];
+                }
+            }
+        }
+        return ans;
+    }
+    public void dfs(int[][] arr,int[][] ans,int r,int c,int newc,int old){
+        int n=arr.length,m=arr[0].length;
+        if(r<0 || r>=n || c<0 || c>=m || arr[r][c]!=old || ans[r][c]!=-1) return;
+        ans[r][c]=newc;
+        dfs(arr,ans,r-1,c,newc,old);
+        dfs(arr,ans,r,c-1,newc,old);
+        dfs(arr,ans,r+1,c,newc,old);
+        dfs(arr,ans,r,c+1,newc,old);
+    }
+}
