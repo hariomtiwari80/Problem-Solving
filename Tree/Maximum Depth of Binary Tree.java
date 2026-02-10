@@ -16,3 +16,17 @@ class Solution {
         return n;
     }
 }
+
+--------------------------------------------------------------
+
+class Solution {
+    public int maxDepth(TreeNode root) {
+        return find(root);
+    }
+    public int find(TreeNode root){
+        if(root==null) return 0;
+        int left=find(root.left);
+        int right=find(root.right);
+        return Math.max(left,right)+1;
+    }
+}
