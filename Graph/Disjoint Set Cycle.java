@@ -7,10 +7,10 @@ class Solution {
         int p2=find(j);
         if(p1==p2) return;
         if(rank[p1]>rank[p2]){
-            parent[j]=p1;
+            parent[p2]=p1;
         }
         else if(rank[p2]>rank[p1]){
-            parent[i]=p2;
+            parent[p1]=p2;
         }
         else{
             parent[j]=p1;
