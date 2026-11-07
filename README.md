@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1882-process-tasks-using-servers) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
