@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
@@ -61,4 +62,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1267-count-servers-that-communicate) |
+## Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+## Binary Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
