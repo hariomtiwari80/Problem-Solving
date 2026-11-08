@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1267-count-servers-that-communicate](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1267-count-servers-that-communicate) |
 | [1882-process-tasks-using-servers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1882-process-tasks-using-servers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 ## Design
@@ -79,10 +81,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+## Hash Table
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
