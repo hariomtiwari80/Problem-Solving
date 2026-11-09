@@ -49,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1267-count-servers-that-communicate](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1267-count-servers-that-communicate](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Design
 |  |
 | ------- |
@@ -80,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Iterator
 |  |
 | ------- |
