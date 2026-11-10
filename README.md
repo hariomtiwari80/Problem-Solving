@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0071-simplify-path) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0133-clone-graph) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1267-count-servers-that-communicate) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3693-climbing-stairs-ii) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
