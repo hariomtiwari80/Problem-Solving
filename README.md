@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0502-ipo](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0502-ipo) |
 | [1267-count-servers-that-communicate](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1267-count-servers-that-communicate) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1882-process-tasks-using-servers) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0502-ipo](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0502-ipo) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1882-process-tasks-using-servers) |
 ## Linked List
@@ -152,9 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0502-ipo) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0137-single-number-ii) |
+## Sorting
+|  |
+| ------- |
+| [0502-ipo](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
