@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0224-basic-calculator) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0433-minimum-genetic-mutation) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
