@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0137-single-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1267-count-servers-that-communicate](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1267-count-servers-that-communicate) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
