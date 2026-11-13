@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0224-basic-calculator) |
 | [0433-minimum-genetic-mutation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0433-minimum-genetic-mutation) |
 ## Stack
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0502-ipo) |
 | [1267-count-servers-that-communicate](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1267-count-servers-that-communicate) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 | [1267-count-servers-that-communicate](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1267-count-servers-that-communicate) |
 ## Counting
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0502-ipo) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
