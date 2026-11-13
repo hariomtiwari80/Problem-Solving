@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Sorting
 |  |
 | ------- |
