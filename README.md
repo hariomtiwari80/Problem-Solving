@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0427-construct-quad-tree](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0427-construct-quad-tree) |
 | [0502-ipo](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0502-ipo) |
 | [1267-count-servers-that-communicate](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1267-count-servers-that-communicate) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
+| [0427-construct-quad-tree](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0427-construct-quad-tree) |
 | [1267-count-servers-that-communicate](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1267-count-servers-that-communicate) |
 ## Counting
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+| [0427-construct-quad-tree](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Design
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0427-construct-quad-tree](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0427-construct-quad-tree) |
 ## Simulation
 |  |
 | ------- |
