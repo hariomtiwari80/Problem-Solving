@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0137-single-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 | [0427-construct-quad-tree](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0427-construct-quad-tree) |
 | [1267-count-servers-that-communicate](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1267-count-servers-that-communicate) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0133-clone-graph) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 ## Sliding Window
@@ -191,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3364-minimum-positive-sum-subarray) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
