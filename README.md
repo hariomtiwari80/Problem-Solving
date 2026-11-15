@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0047-permutations-ii) |
+| [0059-spiral-matrix-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0137-single-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 | [0427-construct-quad-tree](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0427-construct-quad-tree) |
 | [1267-count-servers-that-communicate](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1267-count-servers-that-communicate) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Ordered Set
 |  |
