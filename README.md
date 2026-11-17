@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
