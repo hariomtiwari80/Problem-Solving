@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0029-divide-two-integers) |
+| [0096-unique-binary-search-trees](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0224-basic-calculator) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
@@ -121,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0087-scramble-string) |
+| [0096-unique-binary-search-trees](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
