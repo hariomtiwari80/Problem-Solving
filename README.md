@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0115-distinct-subsequences) |
