@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0059-spiral-matrix-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0119-pascals-triangle-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
