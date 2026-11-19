@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0224-basic-calculator) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0133-clone-graph) |
+| [0140-word-break-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0140-word-break-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0433-minimum-genetic-mutation) |
 ## Divide and Conquer
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0119-pascals-triangle-ii) |
+| [0140-word-break-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 ## Bidirectional Search
@@ -220,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0077-combinations) |
+| [0140-word-break-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 ## Sliding Window
 |  |
@@ -238,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0037-sudoku-solver) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
