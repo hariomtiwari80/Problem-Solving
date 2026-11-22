@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0433-minimum-genetic-mutation) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -260,4 +264,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
