@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0313-super-ugly-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0212-word-search-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0313-super-ugly-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0427-construct-quad-tree](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0427-construct-quad-tree) |
 | [0502-ipo](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0502-ipo) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0313-super-ugly-number) |
 | [0337-house-robber-iii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0337-house-robber-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
