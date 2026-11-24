@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0313-super-ugly-number) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0313-super-ugly-number) |
 | [0337-house-robber-iii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0337-house-robber-iii) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -307,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0337-house-robber-iii) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
