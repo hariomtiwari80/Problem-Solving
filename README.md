@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3364-minimum-positive-sum-subarray](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3693-climbing-stairs-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3693-climbing-stairs-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -285,4 +288,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
