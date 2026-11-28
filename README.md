@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3693-climbing-stairs-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3693-climbing-stairs-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0502-ipo) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1882-process-tasks-using-servers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0502-ipo) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Backtracking
 |  |
 | ------- |
