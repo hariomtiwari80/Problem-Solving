@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0313-super-ugly-number) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0458-poor-pigs](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0458-poor-pigs) |
+| [0464-can-i-win](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0464-can-i-win) |
 | [1352-product-of-the-last-k-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3360-stone-removal-game](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3360-stone-removal-game) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0458-poor-pigs) |
+| [0464-can-i-win](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0464-can-i-win) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0464-can-i-win](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0464-can-i-win) |
 ## Sorting
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0464-can-i-win](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0464-can-i-win) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0464-can-i-win) |
 ## Topological Sort
 |  |
 | ------- |
@@ -354,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0458-poor-pigs) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
