@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0313-super-ugly-number) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0458-poor-pigs](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0458-poor-pigs) |
 | [1352-product-of-the-last-k-numbers](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3360-stone-removal-game](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3360-stone-removal-game) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0337-house-robber-iii) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0458-poor-pigs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariomtiwari80/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hariomtiwari80/Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hariomtiwari80/Problem-Solving/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/hariomtiwari80/Problem-Solving/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
